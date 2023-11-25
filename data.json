@@ -1,0 +1,201 @@
+{
+  "wagtail": {
+    "forks": 3498,
+    "description": "A Django content management system focused on flexibility and user experience",
+    "no_of_issues": 984,
+    "open_issues_count": 984,
+    "language": "Python",
+    "topics": [
+      "cms",
+      "django",
+      "hacktoberfest",
+      "python",
+      "wagtail"
+    ],
+    "issues": {
+      "titles": [
+        "Allow specifying search boost values for individual blocks within StreamField",
+        "Provide a robust way to add extra buttons to the snippet index header",
+        "Add `localized` method for querysets",
+        "MySQL search backend returns no results when filtered by `.type()` AND paginated.",
+        "Refactor wagtailadmin/shared/field.html into a template tag",
+        "Feature/10921 snippet copy function",
+        "Use a registry to map models to permission policies",
+        "Use a single instance of `PagePermissionPolicy` in `wagtail.permissions` module",
+        "Telepath - adapter for form objects",
+        "Information density: spacious/snug mode",
+        "Telepath - give form widget adapters a mechanism for obtaining bound widgets for existing form elements",
+        "Fix workflow notifications exceptions when the requested by user is deleted",
+        "Remove Safari 14 support in Wagtail admin \u2013\u00a0update browserslist and TypeScript",
+        "Remove support for Safari 15",
+        "Easily override the Settings -> Users display table",
+        "Frozen confirmation bar when scrolling ",
+        "Migrate re-ordering to stimulus controller w-sortable",
+        " Starter tutorial doesn't explain what to do when SQLite does not support JSONFields",
+        "ES Autocomplete does not work for Snippets with RelatedFields",
+        "Formalise and document support for multiple databases",
+        "Perform None-check on self.page.current_workflow_task",
+        "The Page object has not per se a (non-None) current_workflow_task",
+        "MultipleChooserPanel does not work when used in a nested InlinePanel",
+        "Fix snippets index.html to use results_template_name for results",
+        "\"collapsed\" Panel initially rendered expanded, collapses later (flickers)",
+        "Add aria-labelledby tag to block if it does not have aria-labelledby or label tag",
+        "Add a `fields` parameter to `SearchQuery` classes",
+        "Searching child class from parent class fails when fields are specified",
+        "Enable searching `RelatedFields` by field name",
+        "Resolve multiple errors when editing a Site to use an existing hostname and port"
+      ],
+      "count": 30
+    }
+  },
+  "bert": {
+    "forks": 9445,
+    "description": "TensorFlow code and pre-trained models for BERT",
+    "no_of_issues": 879,
+    "open_issues_count": 879,
+    "language": "Python",
+    "topics": [
+      "google",
+      "natural-language-processing",
+      "natural-language-understanding",
+      "nlp",
+      "tensorflow"
+    ],
+    "issues": {
+      "titles": [
+        "Forget password Gmail account ",
+        "Update README.md",
+        "Sentence Splitting Approach in BERT Preprocessing",
+        "Reproducing Experiment Results for Data Augmentation with TriviaQA",
+        "Update modeling.py",
+        "bert loading",
+        "Hi",
+        "Bert:tensorflow:Error recorded from training_loop: Read less bytes than requested",
+        "Refactoring and Optimization of Tokenization Tests.",
+        "Notas",
+        "Update LICENSE",
+        "Data source you used for training the wordpiece model in your original paper",
+        "sussy baka",
+        "Bert pre training approach",
+        "bert_config.json",
+        "Prevent learning rate drop after warmup",
+        "how much should be the accuracy of bert base cased on squad 2",
+        "Prueba",
+        "Update README.md",
+        "Fixed a grammatical error",
+        "Is BERT capable of producing semantically close word embeddings for synonyms?",
+        "Fixed the broken link to bookcorpus.",
+        "modeling/embedding_lookup function issue",
+        "tensorflow/core/framework/op_kernel.cc:1651] OP_REQUIRES failed at example_parsing_ops.cc:240 : Invalid argument: Key: masked_lm_positions.  Can't parse serialized Example.",
+        "[Question] What was the size of English, Nepali, and Hindi data, multilingual BERT cased was trained on?",
+        "Hidden snake",
+        "Ispy",
+        "Create ca-app-pub-1641102426811793~5417355666",
+        "fix Pose estimation (keypoint.ipynb) same error, output_to_keypoint()\u5bf9bounding box\u89e3\u6790\u6709\u95ee\u9898",
+        "fix"
+      ],
+      "count": 30
+    }
+  },
+  "generative-ai-for-beginners": {
+    "forks": 7196,
+    "description": "12 Lessons, Get Started Building with Generative AI  \ud83d\udd17 https://microsoft.github.io/generative-ai-for-beginners/",
+    "no_of_issues": 16,
+    "open_issues_count": 16,
+    "language": "Jupyter Notebook",
+    "topics": [
+      "ai",
+      "azure",
+      "chatgpt",
+      "dall-e",
+      "generative-ai",
+      "generativeai",
+      "gpt",
+      "language-model",
+      "llms",
+      "openai",
+      "prompt-engineering",
+      "semantic-search",
+      "transformers"
+    ],
+    "issues": {
+      "titles": [
+        "Fence All Kinds",
+        "Fixing a typo",
+        "Add link to MSOS Code of Conduct",
+        "Properly uppercase GitHub",
+        "Talk about prompt injection and LLM security",
+        "Just starting. Can\u2019t fork the repository ",
+        "Fixed documentation,broken notebooks and made it runnable inside DevContainer",
+        "[CN] Update translation of Lesson 01",
+        "Improve the Foundation Models graph in module 2",
+        "Development",
+        "Lesson 11 - Translation folder Typo",
+        "At the moment only one tenant, and GetContext() Throws following error",
+        "Add Portugese translation",
+        "Create italian readme",
+        "Suggest new lessons, tell us what you want to see",
+        "Add Spanish translation"
+      ],
+      "count": 16
+    }
+  },
+  "whisper": {
+    "forks": 5790,
+    "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+    "no_of_issues": 35,
+    "open_issues_count": 35,
+    "language": "Python",
+    "topics": [],
+    "issues": {
+      "titles": [
+        "Skip silence around hallucinations",
+        "(slightly) More robust conversion",
+        "Change version for python",
+        "Making a small type change",
+        "Added number content_frames and dtype to transcribe results",
+        "Add subtitle format and font color in word_options dict",
+        "Update actions/checkout to v4",
+        "Improve --model argument handling and help message",
+        "Update description of n_mels according to changes mel_filters function",
+        "added support for bfloat16 datatype to be used for Intel Xeon processors",
+        "added parser argument to support MPS by default",
+        "fix bug with getting dictionary items in utils",
+        "Add support for AMD GPU (ROCm Platform)",
+        "Resolve Inference Selection Bug Affecting Transcription Quality",
+        "make content-length lookup more defensive",
+        "Add support for Intel GPU's",
+        "[bugfix] No output when providing a prefix",
+        "Force tqdm to use ASCII characters for the progress bar",
+        "Added `aria2` support",
+        "Remove triton dependency on musllinux",
+        "Fix occasional IndexError on empty segments",
+        "Teach whisper to look for models in /usr/ and /var/ too.",
+        "Ignore repeated prompt",
+        "Add new `job_details.model` key to transcribe return dict",
+        "Update README.md about ffmpeg PATH variables",
+        "Per Token Confidence + Color terminal example",
+        "add always_use_initial_prompt",
+        "support comma separated output_format",
+        "added progress_callback in transcribe method",
+        "Add per token confidence to each segment."
+      ],
+      "count": 30
+    }
+  },
+  "twitter-server": {
+    "forks": 273,
+    "description": "Twitter-Server defines a template from which services at Twitter are built",
+    "no_of_issues": 0,
+    "open_issues_count": 0,
+    "language": "Scala",
+    "topics": [
+      "finagle",
+      "finatra"
+    ],
+    "issues": {
+      "titles": [],
+      "count": 0
+    }
+  }
+}
