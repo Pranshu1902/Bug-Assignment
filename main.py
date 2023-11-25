@@ -1,4 +1,5 @@
 import requests
+from datetime import datetime
 
 merged_data = {}
 
@@ -49,6 +50,24 @@ for project in projects:
 
   data["issues"] = issue_data
 
+  # number of contributors
+  contributors = requests.get(url+"/contributors")
+  contributors = contributors.json()
+  data["number_of_contributors"] = len(contributors)
+
+  # number of PRs
+  pulls = requests.get(url+"/pulls")
+  pulls = pulls.json()
+  data["number_of_prs"] = len(pulls)
+
+  # date created
+  data["created_at"] = datetime.strptime(res['created_at'], "%Y-%m-%dT%H:%M:%SZ")
+
+  # archived
+  data["is_archived"] = res["archived"]
+
+
+  # put final data in main variable
   merged_data[repo] = data
 
 print("Data fetched!")
