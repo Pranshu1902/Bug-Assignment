@@ -1,17 +1,11 @@
 {
   "wagtail": {
-    "forks": 3498,
+    "forks": 3496,
     "description": "A Django content management system focused on flexibility and user experience",
     "no_of_issues": 984,
     "open_issues_count": 984,
     "language": "Python",
-    "topics": [
-      "cms",
-      "django",
-      "hacktoberfest",
-      "python",
-      "wagtail"
-    ],
+    "topics": ["cms", "django", "hacktoberfest", "python", "wagtail"],
     "issues": {
       "titles": [
         "Allow specifying search boost values for individual blocks within StreamField",
@@ -46,7 +40,11 @@
         "Resolve multiple errors when editing a Site to use an existing hostname and port"
       ],
       "count": 30
-    }
+    },
+    "number_of_contributors": 30,
+    "number_of_prs": 30,
+    "created_at": "2014-02-03 12:41:59",
+    "is_archived": false
   },
   "bert": {
     "forks": 9445,
@@ -95,10 +93,14 @@
         "fix"
       ],
       "count": 30
-    }
+    },
+    "number_of_contributors": 25,
+    "number_of_prs": 30,
+    "created_at": "2018-10-25 22:57:34",
+    "is_archived": false
   },
   "generative-ai-for-beginners": {
-    "forks": 7196,
+    "forks": 7398,
     "description": "12 Lessons, Get Started Building with Generative AI  \ud83d\udd17 https://microsoft.github.io/generative-ai-for-beginners/",
     "no_of_issues": 16,
     "open_issues_count": 16,
@@ -138,10 +140,14 @@
         "Add Spanish translation"
       ],
       "count": 16
-    }
+    },
+    "number_of_contributors": 30,
+    "number_of_prs": 8,
+    "created_at": "2023-06-19 16:28:59",
+    "is_archived": false
   },
   "whisper": {
-    "forks": 5790,
+    "forks": 5797,
     "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
     "no_of_issues": 35,
     "open_issues_count": 35,
@@ -181,7 +187,11 @@
         "Add per token confidence to each segment."
       ],
       "count": 30
-    }
+    },
+    "number_of_contributors": 30,
+    "number_of_prs": 30,
+    "created_at": "2022-09-16 20:02:54",
+    "is_archived": false
   },
   "twitter-server": {
     "forks": 273,
@@ -189,13 +199,14 @@
     "no_of_issues": 0,
     "open_issues_count": 0,
     "language": "Scala",
-    "topics": [
-      "finagle",
-      "finatra"
-    ],
+    "topics": ["finagle", "finatra"],
     "issues": {
       "titles": [],
       "count": 0
-    }
+    },
+    "number_of_contributors": 30,
+    "number_of_prs": 0,
+    "created_at": "2013-04-22 19:34:36",
+    "is_archived": false
   }
 }
