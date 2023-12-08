@@ -1,0 +1,68 @@
+{
+  "name": "Pranshu Aggarwal",
+  "username": "Pranshu1902",
+  "bio": "Pranshu is a tech enthusiast and self-taught programmer.",
+  "created_at": "2020-09-03T07:12:23Z",
+  "location": "New Delhi, India",
+  "forked_repos_count": 9,
+  "own_repos_count": 21,
+  "technology": {
+    "api": {
+      "forked": 0,
+      "own": 3
+    },
+    "backend": {
+      "forked": 0,
+      "own": 1
+    },
+    "django": {
+      "forked": 0,
+      "own": 3
+    },
+    "django-rest-framework": {
+      "forked": 0,
+      "own": 3
+    },
+    "create-react-app": {
+      "forked": 0,
+      "own": 2
+    },
+    "react": {
+      "forked": 0,
+      "own": 2
+    },
+    "front": {
+      "forked": 0,
+      "own": 1
+    },
+    "typescript": {
+      "forked": 0,
+      "own": 3
+    },
+    "heroku-deployment": {
+      "forked": 0,
+      "own": 1
+    },
+    "python3": {
+      "forked": 0,
+      "own": 2
+    },
+    "books": {
+      "forked": 0,
+      "own": 1
+    },
+    "reactjs": {
+      "forked": 0,
+      "own": 1
+    }
+  },
+  "followers": 30,
+  "Pull requests": {
+    "Total PRs": 30,
+    "Status": {
+      "Open": 5,
+      "Merged": 0,
+      "Closed": 25
+    }
+  }
+}
