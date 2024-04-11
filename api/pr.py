@@ -40,4 +40,3 @@ def get_pr(username, state):
 g.close()
 
 print(get_pr("Kushagra102", "open"))
-# print(get_pr("Kushagra102", "closed"))
