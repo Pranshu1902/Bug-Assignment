@@ -28,8 +28,8 @@ def get_pr(username, state):
         for i in range(pr_issues.totalCount):
             dict_data = {
                 "number": i+1,
-                "issue_title": pr_issues.get_page(0)[i].title,
-                "issue_body": pr_issues.get_page(0)[i].body
+                "pr_title": pr_issues.get_page(0)[i].title,
+                "pr_body": pr_issues.get_page(0)[i].body
             }
             data.append(dict_data)
         return data
