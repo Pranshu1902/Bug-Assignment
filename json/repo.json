@@ -1,124 +1,158 @@
 [
-  { "repo_name": "ac-app", "languages": ["JavaScript"], "topics": [] },
-  { "repo_name": "AC-Assignment-2", "languages": ["JavaScript"], "topics": [] },
   {
-    "repo_name": "accident-counter",
-    "languages": ["CSS", "TypeScript", "HTML", "JavaScript"],
+    "repo_name": "10bedicu",
+    "languages": ["JavaScript", "Python", "CSS"],
+    "topics": []
+  },
+  { "repo_name": "Advent-of-Code-2023", "languages": ["Python"], "topics": [] },
+  { "repo_name": "Algorithms", "languages": ["Python"], "topics": [] },
+  {
+    "repo_name": "Allops",
+    "languages": ["Python", "HTML", "CSS", "JavaScript", "Procfile"],
     "topics": []
   },
   {
-    "repo_name": "beyondYourCircle",
-    "languages": ["JavaScript"],
+    "repo_name": "Android-Club-Tip-Tuesday",
+    "languages": ["Python"],
     "topics": []
   },
+  { "repo_name": "ARTHURFLECK1828", "languages": [], "topics": [] },
+  { "repo_name": "ATM", "languages": ["Python"], "topics": [] },
+  {
+    "repo_name": "ayushma",
+    "languages": [
+      "Python",
+      "Dockerfile",
+      "Shell",
+      "Makefile",
+      "HTML",
+      "Procfile"
+    ],
+    "topics": []
+  },
+  {
+    "repo_name": "ayushma_fe",
+    "languages": ["TypeScript", "CSS", "JavaScript", "Dockerfile", "Shell"],
+    "topics": []
+  },
+  {
+    "repo_name": "azure-portfolio",
+    "languages": ["JavaScript", "CSS", "HTML"],
+    "topics": []
+  },
+  {
+    "repo_name": "Bizz-Card",
+    "languages": ["Python", "HTML", "Procfile"],
+    "topics": ["api", "backend", "django", "django-rest-framework"]
+  },
+  {
+    "repo_name": "Bizz-card-fe",
+    "languages": ["TypeScript", "HTML", "CSS", "JavaScript"],
+    "topics": ["create-react-app", "front", "react", "typescript"]
+  },
+  {
+    "repo_name": "Books-World",
+    "languages": ["Python", "HTML"],
+    "topics": [
+      "api",
+      "django",
+      "django-rest-framework",
+      "heroku-deployment",
+      "python3"
+    ]
+  },
+  {
+    "repo_name": "Books-World-fe",
+    "languages": ["TypeScript", "HTML", "CSS", "JavaScript"],
+    "topics": ["books", "create-react-app", "react", "typescript"]
+  },
+  {
+    "repo_name": "BooksWorld",
+    "languages": ["TypeScript", "HTML", "CSS", "JavaScript"],
+    "topics": [
+      "api",
+      "django",
+      "django-rest-framework",
+      "python3",
+      "reactjs",
+      "typescript"
+    ]
+  },
+  { "repo_name": "Breakout", "languages": ["Python"], "topics": [] },
+  {
+    "repo_name": "Breakout-Sixth-Sense-Advanced-Version",
+    "languages": ["Python"],
+    "topics": []
+  },
+  {
+    "repo_name": "Breakout-Sixth-sense-version",
+    "languages": ["Python"],
+    "topics": []
+  },
+  { "repo_name": "Breakout_2_players", "languages": ["Python"], "topics": [] },
+  { "repo_name": "Breakout_Advanced", "languages": ["Python"], "topics": [] },
   { "repo_name": "Bug-Assignment", "languages": ["Python"], "topics": [] },
   {
-    "repo_name": "cloud-blog",
-    "languages": ["JavaScript", "CSS", "HTML"],
+    "repo_name": "Car-preference-calculator",
+    "languages": ["R"],
     "topics": []
   },
   {
-    "repo_name": "CrazyCoderApp",
-    "languages": ["Kotlin", "HTML", "CSS", "JavaScript"],
-    "topics": []
-  },
-  { "repo_name": "DAA", "languages": ["C++", "Python"], "topics": [] },
-  {
-    "repo_name": "DevEmpire",
-    "languages": ["JavaScript", "CSS", "SCSS"],
-    "topics": []
-  },
-  {
-    "repo_name": "Furniture-Store",
-    "languages": ["JavaScript", "HTML", "CSS"],
-    "topics": []
-  },
-  {
-    "repo_name": "iNotebook",
-    "languages": ["JavaScript", "HTML", "CSS"],
-    "topics": []
-  },
-  { "repo_name": "krypthonProject", "languages": ["JavaScript"], "topics": [] },
-  { "repo_name": "Kushagra102", "languages": [], "topics": [] },
-  {
-    "repo_name": "Kushagra102.github.io",
-    "languages": ["HTML", "CSS"],
+    "repo_name": "care",
+    "languages": [
+      "Python",
+      "HTML",
+      "Shell",
+      "Dockerfile",
+      "Makefile",
+      "CSS",
+      "JavaScript",
+      "SCSS",
+      "Procfile"
+    ],
     "topics": []
   },
   {
-    "repo_name": "Learn-GraphQL-Demo",
-    "languages": ["JavaScript", "HTML", "CSS"],
+    "repo_name": "care_dashboard",
+    "languages": [
+      "TypeScript",
+      "CSS",
+      "JavaScript",
+      "HTML",
+      "Dockerfile",
+      "Shell"
+    ],
     "topics": []
   },
   {
-    "repo_name": "linked-in-Clone",
-    "languages": ["JavaScript", "CSS", "HTML"],
+    "repo_name": "care_fe",
+    "languages": [
+      "TypeScript",
+      "ReScript",
+      "CSS",
+      "JavaScript",
+      "MDX",
+      "HTML",
+      "Shell",
+      "Dockerfile"
+    ],
     "topics": []
   },
   {
-    "repo_name": "LinksHub",
-    "languages": ["TypeScript", "CSS", "JavaScript", "Shell"],
+    "repo_name": "Catch-The-Falling-Objects-Sixth-Sense-Version",
+    "languages": ["Python"],
+    "topics": []
+  },
+  { "repo_name": "Catch-the-object", "languages": ["Python"], "topics": [] },
+  {
+    "repo_name": "create-t3-app",
+    "languages": ["TypeScript", "Astro", "CSS", "JavaScript"],
     "topics": []
   },
   {
-    "repo_name": "Museum-of-Candy",
-    "languages": ["HTML", "CSS"],
+    "repo_name": "CS50-Intro-to-AI",
+    "languages": ["HTML", "Python"],
     "topics": []
   },
-  {
-    "repo_name": "news-app",
-    "languages": ["JavaScript", "HTML", "CSS"],
-    "topics": []
-  },
-  {
-    "repo_name": "Njack_Hack_It_Out-Tur1ng-",
-    "languages": ["JavaScript", "CSS", "HTML"],
-    "topics": []
-  },
-  { "repo_name": "Photosite", "languages": ["HTML", "CSS"], "topics": [] },
-  {
-    "repo_name": "Ping-pong-score-keeper",
-    "languages": ["HTML", "JavaScript"],
-    "topics": []
-  },
-  {
-    "repo_name": "Project-App",
-    "languages": ["TypeScript", "CSS", "JavaScript"],
-    "topics": []
-  },
-  {
-    "repo_name": "promptopia",
-    "languages": ["JavaScript", "CSS"],
-    "topics": []
-  },
-  {
-    "repo_name": "SafeScape",
-    "languages": ["TypeScript", "JavaScript"],
-    "topics": []
-  },
-  {
-    "repo_name": "sanityMediumBlog",
-    "languages": ["TypeScript", "JavaScript", "CSS"],
-    "topics": []
-  },
-  {
-    "repo_name": "sih-2023",
-    "languages": ["TypeScript", "JavaScript", "CSS", "HTML"],
-    "topics": []
-  },
-  {
-    "repo_name": "Strings",
-    "languages": ["TypeScript", "JavaScript", "CSS"],
-    "topics": []
-  },
-  {
-    "repo_name": "Testing-with-Playwright",
-    "languages": ["TypeScript"],
-    "topics": []
-  },
-  {
-    "repo_name": "textUtils",
-    "languages": ["JavaScript", "HTML", "CSS"],
-    "topics": []
-  }
+  { "repo_name": "Currency-convertor", "languages": ["Python"], "topics": [] }
 ]
