@@ -14,6 +14,9 @@ def get_user_repos_and_languages(username):
             languages_response = requests.get(repo_languages_url)
             languages_response.raise_for_status()
 
+            # repositories Readme file API url
+            # https://raw.githubusercontent.com/Pranshu1902/Bug-Assignment/master/README.md
+
             languages_data = {
                 "repo_name": repo["name"],
                 "languages": list(languages_response.json().keys()),
